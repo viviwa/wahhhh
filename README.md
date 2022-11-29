@@ -5,4 +5,4 @@
 You can call me <strong>WWW</strong>
 as they are the initials of my Chinese name, <strong>W</strong>ong <strong>W</strong>ai <strong>W</strong>a.
 
-<p><mark>why is coding so harddddd</mark></p>
+<mark>why is coding so harddddd</mark>
