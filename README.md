@@ -2,4 +2,4 @@
 :joy:
 <p>I have two names<br>
   Vivian & Waiwa</p>
-You can call me *WWW*, as they are the initials of my Chinese name, *W*ong *W*ai *W*a.
+You can call me *WWW*, as they are the initials of my Chinese name, *W* ong *W* ai *W* a.
